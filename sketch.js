@@ -508,6 +508,9 @@ function restart() {
   
   //windStregnth (used for mouse interaction)
   float(windStrength=90);
+  
+  //flashing color
+  fColor = 0;
 }
 
 function ranColor() {
